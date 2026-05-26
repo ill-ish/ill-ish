@@ -11,5 +11,5 @@ w2i + c+h always unless specified otherwise
 </div>
 </p>
 <p align="center">
-<img width="113px" height="62px" src="https://i.pinimg.com/originals/c6/54/0f/c6540fca9e66d13baa9ffb300baa7911.gif">
+<img width="96px" height="53px" src="https://i.pinimg.com/originals/c6/54/0f/c6540fca9e66d13baa9ffb300baa7911.gif">
 </p>
